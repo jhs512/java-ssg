@@ -1,4 +1,4 @@
-// 조장 메세지
+// 조장 메세제 : 화이팅
 
 import java.io.BufferedOutputStream;
 import java.io.File;
